@@ -118,7 +118,7 @@ Portfolio website files
 
 The deployment was tested by visiting the EC2 instance’s public IPv4 address in a web browser. The portfolio website loaded successfully from the Apache web server running on Amazon EC2.
 
-![Portfolio website successfully served from Amazon EC2](images/ec2-portfolio-live.png)
+![Portfolio website successfully served from Amazon EC2](images/ec2-portfolio-live.png) 
 
 ### Cost Control and Cleanup
 
